@@ -1,2 +1,3 @@
-# CPPT_Strutynskyi_VO_KI-36_2
+# CPPT_Strutynskyi_VO
+
 КЗП. Лабораторні роботи
